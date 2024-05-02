@@ -1,0 +1,14 @@
+{
+	"name": "tw.edu.ltu.dcd.unity.net.restful",
+	"displayName": "RESTful Plugin",
+	"version": "1.0.0",
+	"unity": "2022.3",
+	"author": "Department of Digital Content Design ,Ling Tung University",
+	"description": "A easy way using RESTful on Unity",
+	"dependencies": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dcd-ltu/tw.edu.ltu.dcd.unity.net.restful.git"
+	}
+}
