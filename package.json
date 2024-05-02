@@ -14,8 +14,8 @@
 	
     "samples": [
         {
-            "displayName": "郵遞區號範例",
-            "description": "使用本外掛進行郵遞區號查詢的範例",
+            "displayName": "ZipCode6",
+            "description": "使用本外掛進行郵遞區號(ZipCode)查詢的範例",
             "path": "Samples~/ZipCode6"
         }]
 }
