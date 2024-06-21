@@ -2,7 +2,7 @@
 	"name": "tw.edu.ltu.dcd.unity.net.restful",
 	"displayName": "RESTful",
 	"version": "1.0.1",
-	"unity": "2022.3",
+	"unity": "2021.3",
 	"author": "Department of Digital Content Design ,Ling Tung University",
 	"description": "A easy way using RESTful on Unity",
 	"dependencies": {
